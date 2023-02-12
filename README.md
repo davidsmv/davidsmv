@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @davidsmv o David Martínez, I live in Bogotá, Colombia and I’m 22, I studied Business Administration at Externado University. I’m interested in Data and I’m currently learning SQL and Python to become a Data Engineer, I’m looking to collaborate in a startup in the Data area.
-- You can contact me on Linkedin https://www.linkedin.com/in/davidsmv/ or my personal e-mail david-martinezv@outlook.com
+- 👋 Hi, I am David Martínez (davidsmv). I live in Bogotá, Colombia and I am 23 years old. I graduated with a degree in Business Administration from Externado University in 2021. I am interested in the field of data and have been learning SQL and Python. I am currently working as a Business Intelligence Analyst in a startup. If you are interested in collaborating in the field of data, you can reach out to me on LinkedIn at https://www.linkedin.com/in/davidsmv/ or via email at david-martinezv@outlook.com.
 
 <!---
 davidsmv/davidsmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
