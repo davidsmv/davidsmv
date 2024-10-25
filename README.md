@@ -1,4 +1,4 @@
-- 👋 Hi, I am David Martínez (davidsmv). I live in Bogotá, Colombia and I am 23 years old. I graduated with a degree in Business Administration from Externado University in 2021. I am interested in the field of data and have been learning SQL and Python. I am currently working as a Business Intelligence Analyst in a startup. If you are interested in collaborating in the field of data, you can reach out to me on LinkedIn at https://www.linkedin.com/in/davidsmv/ or via email at david-martinezv@outlook.com.
+- 👋 Hi, I'm David Martínez, a Data Scientist at Tul, a Colombian startup. I specialize in recommendation systems, MLOps, advanced machine learning models, traditional and Bayesian A/B testing, time series forecasting, dashboard creation, and pricing strategies. If you are interested in collaborating in the field of data, you can reach out to me on LinkedIn at https://www.linkedin.com/in/davidsmv/ or via email at david-martinezv@outlook.com.
 
 <!---
 davidsmv/davidsmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
