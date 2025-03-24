@@ -9,4 +9,4 @@ Core Expertise:
 - Data Visualization & Dashboards: Designing dashboards to communicate insights and track KPIs for stakeholders.
 - Time Series Forecasting: Building models to predict demand and reduce operational costs.
 
-- If you are interested in collaborating in the field of data, you can reach out to me on LinkedIn at https://www.linkedin.com/in/davidsmv/ or via email at david-martinezv@outlook.com.
+If you are interested in collaborating in the field of data, you can reach out to me on LinkedIn at https://www.linkedin.com/in/davidsmv/ or via email at david-martinezv@outlook.com.
