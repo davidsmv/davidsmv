@@ -2,3 +2,7 @@
 
 
 If you are interested in collaborating in the field of data, you can reach out to me on LinkedIn at https://www.linkedin.com/in/davidsmv/ or via email at david-martinezv@outlook.com.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsmv&show_icons=true&theme=dark)](https://github.com/abhisheknaiidu/github-readme-stats)
+
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsmv&layout=compact)](https://github.com/abhisheknaiidu/github-readme-stats)
