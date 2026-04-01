@@ -1,19 +1,20 @@
 👋 Hello, I'm David Martínez. Here you can find all the personal projects that I work on in my free time, related to statistics, machine learning, time series forecasting, and other related topics. I am a Data Scientist with over 4 years of experience, currently working at Capgemini Engineering. I specialize in building, deploying, and maintaining scalable ML solutions in production. I am an expert in Python, Spark, Snowflake, dbt, Kafka, FastAPI, and microservices architectures, with an impact on revenue growth and cost savings. In my current role, I collaborate closely with cross‑functional teams in Marketing, Finance, Product, and Engineering to develop data science solutions.
 
+---
+
+### 🔗 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/davidsmv/?locale=en" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn - David Martínez" />
-  </a>&nbsp;
-  <a href="https://davidsmv.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio - davidsmv.github.io" />
-  </a>&nbsp;
-  <a href="mailto:david-martinezv@outlook.com">
-    <img src="https://img.shields.io/badge/Email-david--martinezv%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email - david-martinezv@outlook.com" />
-  </a>&nbsp;
-  <a href="https://wa.me/573213871557" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp - +57 321 387 1557" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsmv/?locale=en)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://davidsmv.github.io/)
+[![Email](https://img.shields.io/badge/Email-david--martinezv%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:david-martinezv@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/573213871557)
+
 </div>
+
+---
+
+### 🔥 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -22,6 +23,10 @@
 </p>
 
 <p align="center">
+
+---
+
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
