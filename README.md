@@ -8,6 +8,7 @@ If you are interested in collaborating in the field of data, you can reach out t
   </a>
 </p>
 
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -32,9 +33,11 @@ If you are interested in collaborating in the field of data, you can reach out t
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-155F83?style=flat-square&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-2564C4?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-000000?style=flat-square&logo=scrapy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-FB4485?style=flat-square&logo=selenium&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</p>
