@@ -18,11 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=davidsmv&theme=radical" alt="GitHub Activity Streak" />
+    <img src="https://streak-stats.demolab.com?user=davidsmv&theme=dark&hide_border=true" alt="GitHub Activity Streak" />
   </a>
 </p>
 
-<p align="center">
+<p align="center">---</p>
 
 ---
 
