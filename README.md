@@ -1,4 +1,4 @@
-👋 Hello, I'm David Martínez. Here you can find all the personal projects that I work on in my free time, related to statistics, machine learning, time series forecasting, and other related topics. I am a Data Scientist with over 5 years of experience, currently working at Capgemini Engineering. I specialize in building, deploying, and maintaining scalable ML solutions in production.
+👋 Hello, I'm David Martínez. Here you can find all the personal projects that I work on in my free time, related to statistics, machine learning, time series forecasting, and other related topics. I am a Data Scientist with over 5 years of experience, currently working at Capgemini Engineering. I specialize in building, deploying, and maintaining high-level AI and machine learning solutions.
 
 ---
 
