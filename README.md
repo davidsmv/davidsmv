@@ -1,5 +1,4 @@
-👋 Hello, I'm David Martínez. Here you can find all the personal projects that I work on in my free time, related to statistics, machine learning, time series forecasting, and other related topics. I am a Data Scientist with over 4 years of experience, currently working at Capgemini Engineering. I specialize in building, deploying, and maintaining scalable ML solutions in production. I am an expert in Python, Spark, Snowflake, dbt, Kafka, FastAPI, and microservices architectures, with an impact on revenue growth and cost savings. In my current role, I collaborate closely with cross‑functional teams in Marketing, Finance, Product, and Engineering to develop data science solutions.
-
+👋 Hello, I'm David Martínez. Here you can find all the personal projects that I work on in my free time, related to statistics, machine learning, time series forecasting, and other related topics. I am a Data Scientist with over 5 years of experience, currently working at Capgemini Engineering. I specialize in building, deploying, and maintaining scalable ML solutions in production.
 ---
 
 ### 🔗 Connect with Me
